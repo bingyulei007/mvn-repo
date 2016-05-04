@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.chinamobile.epic</groupId>
-  <artifactId>frame-base</artifactId>
+  <artifactId>boot-mysql</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160504065833</lastUpdated>
+    <lastUpdated>20160504070134</lastUpdated>
   </versioning>
 </metadata>
