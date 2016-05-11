@@ -4,7 +4,7 @@
   <repositories>
 		<repository>
 			<id>hengyunabc-maven-repo</id>
-			<url>https://raw.githubusercontent.com/bingyulei007/maven-repo/master/repository</url>
+			<url>https://raw.githubu.com/bingyulei007/maven-repo/master/repository</url>
 		</repository>
 	</repositories>
 ```
