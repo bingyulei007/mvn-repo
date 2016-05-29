@@ -13,6 +13,6 @@
   <dependency>
 			<groupId>com.bing</groupId>
 			<artifactId>excel</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<version>1.3-SNAPSHOT</version>
   </dependency>
 ```
